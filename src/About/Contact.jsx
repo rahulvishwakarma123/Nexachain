@@ -8,9 +8,9 @@ const Contact = () => {
             <h2 className='text-5xl text-[#211F5E] font-bold mb-6'>Contact Us</h2>
             <p className='text-[#494949] text-2xl'>We are committed to processing the information in order to contact you and talk about your project. </p>
             <div className="contactDetails flex flex-col gap-7 pt-9">
-                <p className='flex gap-8 text-xl'><img src="/images/email.svg" alt="email icon" />info@nexachain.in</p>
-                <p className='flex gap-8 text-xl'><img src="/images/property-location.svg" alt="email icon" />2nd floor, Chinar Fortune, Hoshangabad road, Bhopal, Madhya pradesh</p>
-                <p className='flex gap-8 text-xl'><img src="/images/mobile-chat.svg" alt="email icon" />+91 123 654 7890</p>
+                <p className='flex gap-8 text-xl'><img src="images/email.svg" alt="email icon" />info@nexachain.in</p>
+                <p className='flex gap-8 text-xl'><img src="images/property-location.svg" alt="email icon" />2nd floor, Chinar Fortune, Hoshangabad road, Bhopal, Madhya pradesh</p>
+                <p className='flex gap-8 text-xl'><img src="images/mobile-chat.svg" alt="email icon" />+91 123 654 7890</p>
             </div>
         </div>
 

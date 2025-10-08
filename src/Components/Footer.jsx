@@ -6,14 +6,14 @@ const Footer = () => {
         <div className='h-[400px] bg-[#211F5E] text-white flex justify-center items-center px-32'>
             <div className="h-[228px] w-[1253px] flex justify-between">
                 <div >
-                    <img className='mb-4' src="/public/images/nav-logo.svg" alt="navLogo" />
+                    <img className='mb-4' src="images/nav-logo.svg" alt="navLogo" />
                     <p className='text-[20px]'>info@nexachain.in</p>
                     <p className='text-lg'>+91 12345 67890</p>
                     <div className='w-[204px] flex gap-4 justify-start mt-5'>
-                        <a href="#"> <img src="/public/images/instagram.svg" alt="instagramLogo" /></a>
-                        <a href="#"> <img src="/public/images/linkedin.svg" alt="instagramLogo" /></a>
-                        <a href="#"> <img src="/public/images/facebook.svg" alt="instagramLogo" /></a>
-                        <a href="#"> <img src="/public/images/twitter.svg" alt="instagramLogo" /></a>
+                        <a href="#"> <img src="images/instagram.svg" alt="instagramLogo" /></a>
+                        <a href="#"> <img src="images/linkedin.svg" alt="instagramLogo" /></a>
+                        <a href="#"> <img src="images/facebook.svg" alt="instagramLogo" /></a>
+                        <a href="#"> <img src="images/twitter.svg" alt="instagramLogo" /></a>
                     </div>
                 </div>
                 <div className='basis-1/2 flex gap-28 items-start justify-end'>

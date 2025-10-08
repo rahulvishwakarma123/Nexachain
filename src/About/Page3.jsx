@@ -6,7 +6,7 @@ const Page3 = () => {
         <h2 className='text-center pt-28 text-6xl font-bold text-[#3F4D9E] max-sm:text-3xl max-sm:pt-8'>Our Reach</h2>
         <p className='text-[#505050] text-center mt-14 text-2xl leading-[33px] max-sm:text-lg max-sm:leading-5 max-sm:text-justify max-sm:mt-8'>With a global footprint, Nexa Chain Core Pvt. Ltd. has proudly served clients from over 20 countries, delivering blockchain solutions tailored to diverse markets and industries. Our international experience allows us to understand unique business needs and build scalable, localized Web3 products that drive real impact.</p>
         <div className="w-full">
-            <img className='w-full mt-20 max-sm:mt-10' src="../../public/images/map.png" alt="map image" />
+            <img className='w-full mt-20 max-sm:mt-10' src="images/map.png" alt="map image" />
         </div>
     </div>
   )
